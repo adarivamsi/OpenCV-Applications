@@ -1,0 +1,7 @@
+﻿  Assignment1.cpp
+d:\cocktail\project vc\proprojects\opencv\advanced computer vision\assignment1\assignment1\assignment1.cpp(39): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Assignment1.vcxproj -> D:\Cocktail\Project VC\ProProjects\OpenCV\Advanced Computer Vision\Assignment1\x64\Debug\Assignment1.exe
